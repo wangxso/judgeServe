@@ -1,3 +1,5 @@
 ./core_log.txt
 ./mq.conf
+./.idea/
+./dist/
 *.yaml
