@@ -1,0 +1,291 @@
+NOTICE [2021-01-24 12:15:24] [logger.h:92] log_open
+TRACE [2021-01-24 12:15:24] [core.cpp:387]
+ [compiler] Start: gcc -o ./dist/2e2ef07337cb45ed85691abe6fad1dcb/a.out ./dist/2e2ef07337cb45ed85691abe6fad1dcb/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2021-01-24 12:15:24] [core.cpp:412] compiler finished
+TRACE [2021-01-24 12:15:24] [core.cpp:419] compile error
+TRACE [2021-01-24 12:15:24] [core.cpp:55] The final result is Compile Error 0 0 /usr/bin/ld: /usr/lib/gcc/x86_64-linux-gnu/8/../../../x86_64-linux-gnu/crt1.o: in function `_start':
+(.text+0x20): undefined reference to `main'
+collect2: error: ld returned 1 exit status
+
+TRACE [2021-01-24 12:15:24] [logger.h:100] log_close
+NOTICE [2021-01-24 12:16:11] [logger.h:92] log_open
+TRACE [2021-01-24 12:16:11] [core.cpp:387]
+ [compiler] Start: gcc -o ./dist/2e2ef07337cb45ed85691abe6fad1dcb/a.out ./dist/2e2ef07337cb45ed85691abe6fad1dcb/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2021-01-24 12:16:11] [core.cpp:412] compiler finished
+TRACE [2021-01-24 12:16:11] [core.cpp:416] compile succeeded.
+TRACE [2021-01-24 12:16:11] [core.cpp:459] Start Judging.
+TRACE [2021-01-24 12:16:11] [core.cpp:160] Start to redirect the IO.
+TRACE [2021-01-24 12:16:11] [core.cpp:169] redirect io is OK.
+TRACE [2021-01-24 04:16:11] [logger.h:100] log_close
+TRACE [2021-01-24 12:16:11] [core.cpp:501] OK, normal quit. All is good.
+TRACE [2021-01-24 12:16:11] [core.cpp:55] The final result is Accepted 0 440 
+TRACE [2021-01-24 12:16:11] [logger.h:100] log_close
+NOTICE [2021-01-24 12:26:57] [logger.h:92] log_open
+TRACE [2021-01-24 12:26:57] [core.cpp:387]
+ [compiler] Start: gcc -o ./dist/0d06a90a624941f387355888d25a657e/a.out ./dist/0d06a90a624941f387355888d25a657e/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2021-01-24 12:26:57] [core.cpp:412] compiler finished
+TRACE [2021-01-24 12:26:57] [core.cpp:419] compile error
+TRACE [2021-01-24 12:26:57] [core.cpp:55] The final result is Compile Error 0 0 /usr/bin/ld: /usr/lib/gcc/x86_64-linux-gnu/8/../../../x86_64-linux-gnu/crt1.o: in function `_start':
+(.text+0x20): undefined reference to `main'
+collect2: error: ld returned 1 exit status
+
+TRACE [2021-01-24 12:26:57] [logger.h:100] log_close
+NOTICE [2021-01-24 12:33:47] [logger.h:92] log_open
+TRACE [2021-01-24 12:33:47] [core.cpp:387]
+ [compiler] Start: gcc -o ./dist/5eb6c54fc698484a9829aad3b4788636/a.out ./dist/5eb6c54fc698484a9829aad3b4788636/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2021-01-24 12:33:47] [core.cpp:412] compiler finished
+TRACE [2021-01-24 12:33:47] [core.cpp:416] compile succeeded.
+TRACE [2021-01-24 12:33:47] [core.cpp:459] Start Judging.
+TRACE [2021-01-24 12:33:47] [core.cpp:160] Start to redirect the IO.
+TRACE [2021-01-24 12:33:47] [core.cpp:169] redirect io is OK.
+TRACE [2021-01-24 04:33:47] [logger.h:100] log_close
+TRACE [2021-01-24 12:33:47] [core.cpp:501] OK, normal quit. All is good.
+TRACE [2021-01-24 12:33:47] [core.cpp:55] The final result is Accepted 1 428 
+TRACE [2021-01-24 12:33:47] [logger.h:100] log_close
+NOTICE [2021-01-24 12:36:52] [logger.h:92] log_open
+TRACE [2021-01-24 12:36:52] [core.cpp:387]
+ [compiler] Start: gcc -o ./dist/ac415eb291724d7b82f93448b8d932d6/a.out ./dist/ac415eb291724d7b82f93448b8d932d6/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2021-01-24 12:36:52] [core.cpp:412] compiler finished
+TRACE [2021-01-24 12:36:52] [core.cpp:416] compile succeeded.
+TRACE [2021-01-24 12:36:52] [core.cpp:459] Start Judging.
+TRACE [2021-01-24 12:36:52] [core.cpp:160] Start to redirect the IO.
+TRACE [2021-01-24 12:36:52] [core.cpp:169] redirect io is OK.
+TRACE [2021-01-24 04:36:52] [logger.h:100] log_close
+TRACE [2021-01-24 12:36:52] [core.cpp:501] OK, normal quit. All is good.
+TRACE [2021-01-24 12:36:52] [core.cpp:55] The final result is Accepted 1 436 
+TRACE [2021-01-24 12:36:52] [logger.h:100] log_close
+NOTICE [2021-01-24 12:38:03] [logger.h:92] log_open
+TRACE [2021-01-24 12:38:03] [core.cpp:387]
+ [compiler] Start: gcc -o ./dist/f12b29594b2241aab0f6c346b23c58ea/a.out ./dist/f12b29594b2241aab0f6c346b23c58ea/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2021-01-24 12:38:03] [core.cpp:412] compiler finished
+TRACE [2021-01-24 12:38:03] [core.cpp:416] compile succeeded.
+TRACE [2021-01-24 12:38:03] [core.cpp:459] Start Judging.
+TRACE [2021-01-24 12:38:03] [core.cpp:160] Start to redirect the IO.
+TRACE [2021-01-24 12:38:03] [core.cpp:169] redirect io is OK.
+TRACE [2021-01-24 04:38:03] [logger.h:100] log_close
+TRACE [2021-01-24 12:38:03] [core.cpp:501] OK, normal quit. All is good.
+TRACE [2021-01-24 12:38:03] [core.cpp:55] The final result is Accepted 1 440 
+TRACE [2021-01-24 12:38:03] [logger.h:100] log_close
+NOTICE [2021-01-24 12:38:33] [logger.h:92] log_open
+TRACE [2021-01-24 12:38:33] [core.cpp:387]
+ [compiler] Start: gcc -o ./dist/37c32ea6b5814127a8f88a38c9db6198/a.out ./dist/37c32ea6b5814127a8f88a38c9db6198/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2021-01-24 12:38:33] [core.cpp:412] compiler finished
+TRACE [2021-01-24 12:38:33] [core.cpp:416] compile succeeded.
+TRACE [2021-01-24 12:38:33] [core.cpp:459] Start Judging.
+TRACE [2021-01-24 12:38:33] [core.cpp:160] Start to redirect the IO.
+TRACE [2021-01-24 12:38:33] [core.cpp:169] redirect io is OK.
+TRACE [2021-01-24 04:38:33] [logger.h:100] log_close
+TRACE [2021-01-24 12:38:33] [core.cpp:501] OK, normal quit. All is good.
+TRACE [2021-01-24 12:38:33] [core.cpp:55] The final result is Accepted 1 440 
+TRACE [2021-01-24 12:38:33] [logger.h:100] log_close
+NOTICE [2021-01-24 13:08:05] [logger.h:92] log_open
+TRACE [2021-01-24 13:08:05] [core.cpp:387]
+ [compiler] Start: gcc -o ./dist/b5b6295707d540f8941fbfb485e127b8/a.out ./dist/b5b6295707d540f8941fbfb485e127b8/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2021-01-24 13:08:05] [core.cpp:412] compiler finished
+TRACE [2021-01-24 13:08:05] [core.cpp:419] compile error
+TRACE [2021-01-24 13:08:05] [core.cpp:55] The final result is Compile Error 0 0 ./dist/b5b6295707d540f8941fbfb485e127b8/test.c: In function ‘main’:
+./dist/b5b6295707d540f8941fbfb485e127b8/test.c:6:13: error: expected ‘;’ before ‘}’ token
+     return 0
+             ^
+             ;
+./dist/b5b6295707d540f8941fbfb485e127b8/test.c:8:1:
+ }
+ ~            
+
+TRACE [2021-01-24 13:08:05] [logger.h:100] log_close
+NOTICE [2021-01-24 13:09:42] [logger.h:92] log_open
+TRACE [2021-01-24 13:09:42] [core.cpp:387]
+ [compiler] Start: gcc -o ./dist/d1d1f20928934b5b834f4f403d31fe67/a.out ./dist/d1d1f20928934b5b834f4f403d31fe67/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2021-01-24 13:09:42] [core.cpp:412] compiler finished
+TRACE [2021-01-24 13:09:42] [core.cpp:419] compile error
+TRACE [2021-01-24 13:09:42] [core.cpp:55] The final result is Compile Error 0 0 ./dist/d1d1f20928934b5b834f4f403d31fe67/test.c: In function ‘main’:
+./dist/d1d1f20928934b5b834f4f403d31fe67/test.c:6:13: error: expected ‘;’ before ‘}’ token
+     return 0
+             ^
+             ;
+./dist/d1d1f20928934b5b834f4f403d31fe67/test.c:8:1:
+ }
+ ~            
+
+TRACE [2021-01-24 13:09:42] [logger.h:100] log_close
+NOTICE [2021-01-24 13:10:07] [logger.h:92] log_open
+TRACE [2021-01-24 13:10:07] [core.cpp:387]
+ [compiler] Start: gcc -o ./dist/a765d44695ea42c0a1260074fbb0b1d3/a.out ./dist/a765d44695ea42c0a1260074fbb0b1d3/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2021-01-24 13:10:07] [core.cpp:412] compiler finished
+TRACE [2021-01-24 13:10:07] [core.cpp:419] compile error
+TRACE [2021-01-24 13:10:07] [core.cpp:55] The final result is Compile Error 0 0 ./dist/a765d44695ea42c0a1260074fbb0b1d3/test.c: In function ‘main’:
+./dist/a765d44695ea42c0a1260074fbb0b1d3/test.c:6:13: error: expected ‘;’ before ‘}’ token
+     return 0
+             ^
+             ;
+./dist/a765d44695ea42c0a1260074fbb0b1d3/test.c:8:1:
+ }
+ ~            
+
+TRACE [2021-01-24 13:10:07] [logger.h:100] log_close
+NOTICE [2021-01-24 16:31:43] [logger.h:92] log_open
+TRACE [2021-01-24 16:31:43] [core.cpp:387]
+ [compiler] Start: gcc -o ./dist/782cf3b87d6e4959a9015370418b1573/a.out ./dist/782cf3b87d6e4959a9015370418b1573/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2021-01-24 16:31:43] [core.cpp:412] compiler finished
+TRACE [2021-01-24 16:31:43] [core.cpp:419] compile error
+TRACE [2021-01-24 16:31:43] [core.cpp:55] The final result is Compile Error 0 0 ./dist/782cf3b87d6e4959a9015370418b1573/test.c: In function ‘main’:
+./dist/782cf3b87d6e4959a9015370418b1573/test.c:4:9: error: expected ‘;’ before ‘}’ token
+ return 0
+         ^
+         ;
+ }
+ ~        
+
+TRACE [2021-01-24 16:31:43] [logger.h:100] log_close
+NOTICE [2021-01-24 16:32:00] [logger.h:92] log_open
+TRACE [2021-01-24 16:32:00] [core.cpp:387]
+ [compiler] Start: gcc -o ./dist/21557880bb5f47a98d303b96688a77fe/a.out ./dist/21557880bb5f47a98d303b96688a77fe/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2021-01-24 16:32:00] [core.cpp:412] compiler finished
+TRACE [2021-01-24 16:32:00] [core.cpp:416] compile succeeded.
+TRACE [2021-01-24 16:32:00] [core.cpp:459] Start Judging.
+TRACE [2021-01-24 16:32:00] [core.cpp:160] Start to redirect the IO.
+TRACE [2021-01-24 16:32:00] [core.cpp:169] redirect io is OK.
+TRACE [2021-01-24 08:32:00] [logger.h:100] log_close
+TRACE [2021-01-24 16:32:00] [core.cpp:501] OK, normal quit. All is good.
+TRACE [2021-01-24 16:32:00] [core.cpp:55] The final result is Accepted 0 440 
+TRACE [2021-01-24 16:32:00] [logger.h:100] log_close
+NOTICE [2021-01-24 16:33:54] [logger.h:92] log_open
+TRACE [2021-01-24 16:33:54] [core.cpp:387]
+ [compiler] Start: gcc -o ./dist/6f6ac3b40d0f4302a89dfd56418276a6/a.out ./dist/6f6ac3b40d0f4302a89dfd56418276a6/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2021-01-24 16:33:54] [core.cpp:412] compiler finished
+TRACE [2021-01-24 16:33:54] [core.cpp:419] compile error
+TRACE [2021-01-24 16:33:54] [core.cpp:55] The final result is Compile Error 0 0 /usr/bin/ld: /usr/lib/gcc/x86_64-linux-gnu/8/../../../x86_64-linux-gnu/crt1.o: in function `_start':
+(.text+0x20): undefined reference to `main'
+collect2: error: ld returned 1 exit status
+
+TRACE [2021-01-24 16:33:54] [logger.h:100] log_close
+NOTICE [2021-01-24 16:35:21] [logger.h:92] log_open
+TRACE [2021-01-24 16:35:21] [core.cpp:387]
+ [compiler] Start: gcc -o ./dist/e319b220849144b6ba08f2328d739388/a.out ./dist/e319b220849144b6ba08f2328d739388/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2021-01-24 16:35:21] [core.cpp:412] compiler finished
+TRACE [2021-01-24 16:35:21] [core.cpp:419] compile error
+TRACE [2021-01-24 16:35:21] [core.cpp:55] The final result is Compile Error 0 0 /usr/bin/ld: /usr/lib/gcc/x86_64-linux-gnu/8/../../../x86_64-linux-gnu/crt1.o: in function `_start':
+(.text+0x20): undefined reference to `main'
+collect2: error: ld returned 1 exit status
+
+TRACE [2021-01-24 16:35:21] [logger.h:100] log_close
+NOTICE [2021-01-24 16:37:02] [logger.h:92] log_open
+TRACE [2021-01-24 16:37:02] [core.cpp:387]
+ [compiler] Start: gcc -o ./dist/8bb38d5c68114dbb88427170e9818f55/a.out ./dist/8bb38d5c68114dbb88427170e9818f55/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2021-01-24 16:37:02] [core.cpp:412] compiler finished
+TRACE [2021-01-24 16:37:02] [core.cpp:416] compile succeeded.
+TRACE [2021-01-24 16:37:02] [core.cpp:459] Start Judging.
+TRACE [2021-01-24 16:37:02] [core.cpp:160] Start to redirect the IO.
+TRACE [2021-01-24 16:37:02] [core.cpp:169] redirect io is OK.
+TRACE [2021-01-24 08:37:02] [logger.h:100] log_close
+TRACE [2021-01-24 16:37:02] [core.cpp:501] OK, normal quit. All is good.
+TRACE [2021-01-24 16:37:02] [core.cpp:55] The final result is Accepted 1 436 
+TRACE [2021-01-24 16:37:02] [logger.h:100] log_close
+NOTICE [2021-01-24 16:39:16] [logger.h:92] log_open
+TRACE [2021-01-24 16:39:16] [core.cpp:387]
+ [compiler] Start: gcc -o ./dist/106057413c8e47488e27bba486d60af9/a.out ./dist/106057413c8e47488e27bba486d60af9/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2021-01-24 16:39:16] [core.cpp:412] compiler finished
+TRACE [2021-01-24 16:39:16] [core.cpp:416] compile succeeded.
+TRACE [2021-01-24 16:39:16] [core.cpp:459] Start Judging.
+TRACE [2021-01-24 16:39:16] [core.cpp:160] Start to redirect the IO.
+TRACE [2021-01-24 16:39:16] [core.cpp:169] redirect io is OK.
+TRACE [2021-01-24 08:39:16] [logger.h:100] log_close
+TRACE [2021-01-24 16:39:16] [core.cpp:501] OK, normal quit. All is good.
+TRACE [2021-01-24 16:39:16] [core.cpp:55] The final result is Accepted 1 440 
+TRACE [2021-01-24 16:39:16] [logger.h:100] log_close
+NOTICE [2021-01-24 16:39:38] [logger.h:92] log_open
+TRACE [2021-01-24 16:39:38] [core.cpp:387]
+ [compiler] Start: gcc -o ./dist/e5c901ad0f09411488dfb8b9ffc269df/a.out ./dist/e5c901ad0f09411488dfb8b9ffc269df/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2021-01-24 16:39:38] [core.cpp:412] compiler finished
+TRACE [2021-01-24 16:39:38] [core.cpp:416] compile succeeded.
+TRACE [2021-01-24 16:39:38] [core.cpp:459] Start Judging.
+TRACE [2021-01-24 16:39:38] [core.cpp:160] Start to redirect the IO.
+TRACE [2021-01-24 16:39:38] [core.cpp:169] redirect io is OK.
+TRACE [2021-01-24 08:39:38] [logger.h:100] log_close
+TRACE [2021-01-24 16:39:38] [core.cpp:501] OK, normal quit. All is good.
+TRACE [2021-01-24 16:39:38] [core.cpp:55] The final result is Accepted 1 432 
+TRACE [2021-01-24 16:39:38] [logger.h:100] log_close
+NOTICE [2021-01-24 16:40:46] [logger.h:92] log_open
+TRACE [2021-01-24 16:40:46] [core.cpp:387]
+ [compiler] Start: gcc -o ./dist/04383bb03f7f4b3fab71c2223d8a3ea4/a.out ./dist/04383bb03f7f4b3fab71c2223d8a3ea4/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2021-01-24 16:40:47] [core.cpp:412] compiler finished
+TRACE [2021-01-24 16:40:47] [core.cpp:416] compile succeeded.
+TRACE [2021-01-24 16:40:47] [core.cpp:459] Start Judging.
+TRACE [2021-01-24 16:40:47] [core.cpp:160] Start to redirect the IO.
+TRACE [2021-01-24 16:40:47] [core.cpp:169] redirect io is OK.
+TRACE [2021-01-24 08:40:47] [logger.h:100] log_close
+TRACE [2021-01-24 16:40:47] [core.cpp:501] OK, normal quit. All is good.
+TRACE [2021-01-24 16:40:47] [core.cpp:55] The final result is Accepted 1 428 
+TRACE [2021-01-24 16:40:47] [logger.h:100] log_close
+NOTICE [2021-01-24 16:45:23] [logger.h:92] log_open
+TRACE [2021-01-24 16:45:23] [core.cpp:387]
+ [compiler] Start: gcc -o ./dist/31751dad52574c0c9b4cd6651ed173b4/a.out ./dist/31751dad52574c0c9b4cd6651ed173b4/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2021-01-24 16:45:23] [core.cpp:412] compiler finished
+TRACE [2021-01-24 16:45:23] [core.cpp:416] compile succeeded.
+TRACE [2021-01-24 16:45:23] [core.cpp:459] Start Judging.
+TRACE [2021-01-24 16:45:23] [core.cpp:160] Start to redirect the IO.
+TRACE [2021-01-24 16:45:23] [core.cpp:169] redirect io is OK.
+TRACE [2021-01-24 08:45:23] [logger.h:100] log_close
+TRACE [2021-01-24 16:45:23] [core.cpp:501] OK, normal quit. All is good.
+TRACE [2021-01-24 16:45:23] [core.cpp:55] The final result is Accepted 1 432 
+TRACE [2021-01-24 16:45:23] [logger.h:100] log_close
+NOTICE [2021-01-24 16:46:16] [logger.h:92] log_open
+TRACE [2021-01-24 16:46:16] [core.cpp:387]
+ [compiler] Start: gcc -o ./dist/1d128cf6872944c3a415bb2b072ddc45/a.out ./dist/1d128cf6872944c3a415bb2b072ddc45/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2021-01-24 16:46:16] [core.cpp:412] compiler finished
+TRACE [2021-01-24 16:46:16] [core.cpp:416] compile succeeded.
+TRACE [2021-01-24 16:46:16] [core.cpp:459] Start Judging.
+TRACE [2021-01-24 16:46:16] [core.cpp:160] Start to redirect the IO.
+TRACE [2021-01-24 16:46:16] [core.cpp:169] redirect io is OK.
+TRACE [2021-01-24 08:46:16] [logger.h:100] log_close
+TRACE [2021-01-24 16:46:16] [core.cpp:501] OK, normal quit. All is good.
+TRACE [2021-01-24 16:46:16] [core.cpp:55] The final result is Accepted 1 428 
+TRACE [2021-01-24 16:46:16] [logger.h:100] log_close
+NOTICE [2021-01-24 16:51:10] [logger.h:92] log_open
+TRACE [2021-01-24 16:51:10] [core.cpp:387]
+ [compiler] Start: gcc -o ./dist/d81b42f9a0204ffbaf9d3eb1390a8392/a.out ./dist/d81b42f9a0204ffbaf9d3eb1390a8392/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2021-01-24 16:51:10] [core.cpp:412] compiler finished
+TRACE [2021-01-24 16:51:10] [core.cpp:416] compile succeeded.
+TRACE [2021-01-24 16:51:10] [core.cpp:459] Start Judging.
+TRACE [2021-01-24 16:51:10] [core.cpp:160] Start to redirect the IO.
+TRACE [2021-01-24 16:51:10] [core.cpp:169] redirect io is OK.
+TRACE [2021-01-24 08:51:10] [logger.h:100] log_close
+TRACE [2021-01-24 16:51:10] [core.cpp:501] OK, normal quit. All is good.
+TRACE [2021-01-24 16:51:10] [core.cpp:55] The final result is Accepted 1 436 
+TRACE [2021-01-24 16:51:10] [logger.h:100] log_close
+NOTICE [2021-01-24 16:56:00] [logger.h:92] log_open
+TRACE [2021-01-24 16:56:00] [core.cpp:387]
+ [compiler] Start: gcc -o ./dist/3b31f1935d704f09a16373e56f1e57fe/a.out ./dist/3b31f1935d704f09a16373e56f1e57fe/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2021-01-24 16:56:00] [core.cpp:412] compiler finished
+TRACE [2021-01-24 16:56:00] [core.cpp:416] compile succeeded.
+TRACE [2021-01-24 16:56:00] [core.cpp:459] Start Judging.
+TRACE [2021-01-24 16:56:00] [core.cpp:160] Start to redirect the IO.
+TRACE [2021-01-24 16:56:00] [core.cpp:169] redirect io is OK.
+TRACE [2021-01-24 08:56:00] [logger.h:100] log_close
+TRACE [2021-01-24 16:56:00] [core.cpp:501] OK, normal quit. All is good.
+TRACE [2021-01-24 16:56:00] [core.cpp:55] The final result is Accepted 1 440 
+TRACE [2021-01-24 16:56:00] [logger.h:100] log_close
+NOTICE [2021-01-24 16:58:58] [logger.h:92] log_open
+TRACE [2021-01-24 16:58:58] [core.cpp:387]
+ [compiler] Start: gcc -o ./dist/cf963cb96f234d68b339dcf13b1fe7ad/a.out ./dist/cf963cb96f234d68b339dcf13b1fe7ad/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2021-01-24 16:58:58] [core.cpp:412] compiler finished
+TRACE [2021-01-24 16:58:58] [core.cpp:416] compile succeeded.
+TRACE [2021-01-24 16:58:58] [core.cpp:459] Start Judging.
+TRACE [2021-01-24 16:58:58] [core.cpp:160] Start to redirect the IO.
+TRACE [2021-01-24 16:58:58] [core.cpp:169] redirect io is OK.
+TRACE [2021-01-24 08:58:58] [logger.h:100] log_close
+TRACE [2021-01-24 16:58:58] [core.cpp:501] OK, normal quit. All is good.
+TRACE [2021-01-24 16:58:58] [core.cpp:55] The final result is Accepted 1 436 
+TRACE [2021-01-24 16:58:58] [logger.h:100] log_close
+NOTICE [2021-01-24 17:02:20] [logger.h:92] log_open
+TRACE [2021-01-24 17:02:20] [core.cpp:387]
+ [compiler] Start: gcc -o ./dist/fd9cc39793084ae5b306a958ec1b094c/a.out ./dist/fd9cc39793084ae5b306a958ec1b094c/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2021-01-24 17:02:20] [core.cpp:412] compiler finished
+TRACE [2021-01-24 17:02:20] [core.cpp:416] compile succeeded.
+TRACE [2021-01-24 17:02:20] [core.cpp:459] Start Judging.
+TRACE [2021-01-24 17:02:20] [core.cpp:160] Start to redirect the IO.
+TRACE [2021-01-24 17:02:20] [core.cpp:169] redirect io is OK.
+TRACE [2021-01-24 09:02:20] [logger.h:100] log_close
+TRACE [2021-01-24 17:02:20] [core.cpp:501] OK, normal quit. All is good.
+TRACE [2021-01-24 17:02:20] [core.cpp:55] The final result is Accepted 1 436 
+TRACE [2021-01-24 17:02:20] [logger.h:100] log_close
