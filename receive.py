@@ -2,9 +2,10 @@ import os, stat
 import subprocess
 import uuid
 import pika
-import json
+import ujson
 from conf import get_config
 from send import send_message
+import shutil
 # 建立连接
 mq_conf = get_config("rabbitmq")
 user = pika.PlainCredentials(mq_conf['username'], str(mq_conf['password']))
@@ -13,6 +14,18 @@ connection = pika.BlockingConnection(
 channel = connection.channel()
 
 channel.queue_declare(queue='hello')
+
+result = {
+    "Accepted": 1,
+    "Wrong Answer": 2,
+    "Runtime Error": 3,
+    "Output Limit Exceeded": 4,
+    "Memory Limit Exceeded": 5,
+    "Time Limit Exceeded": 6,
+    "Presentation Error": 7,
+    "System Error": 8,
+    "Compile Error": 9
+}
 
 
 def judge(suid, file_name):
@@ -29,32 +42,37 @@ def get_result(path, suid):
         time = fp.readline()[:-1]
         mem = fp.readline()[:-1]
         err = fp.readlines()[:-1]
+        if len(err) == 0:
+            err = ""
         data = {
             "sid": suid,
-            "res": res,
-            "time": time,
-            "mem": mem,
-            "err": err
+            "result": result[res],
+            "timeCost": time,
+            "memoryCost": mem,
+            "error": err
         }
         fp.close()
-    send_message(json.dumps(data), "result")
+    send_message(ujson.dumps(data), "result")
+    shutil.rmtree(path)
     print(data)
 
 
 def callback(ch, method, properties, body):
-    data = json.loads(body)
-    uid = str(uuid.uuid4())
-    suid = ''.join(uid.split('-'))
+    print(body)
+    data = ujson.loads(body)
+    suid = data['sid']
     print(" [x] Received %r" % suid)
     path = fr'./dist/{suid}/'
-    type = data['type']
+    type = data['language']
     file_name = ""
-    if type == 1:
+    if type == '0':
         file_name = "test.c"
-    elif type == 2:
+    elif type == '1':
         file_name = "test.cpp"
-    elif type == 3:
+    elif type == '2':
         file_name = "Main.java"
+    else:
+        file_name = "test.c"
     if not os.path.isdir(path):
         os.mkdir(fr"./dist/{suid}")
     # 测试样例写入文件
@@ -69,7 +87,6 @@ def callback(ch, method, properties, body):
     with open(file=fr"{path}{file_name}", mode="w") as fp:
         fp.write(str(data['code']))
         fp.close()
-    os.chmod(fr"{path}{file_name}", stat.S_IRWXO)
     judge(suid, file_name)
     get_result(path, suid)
 
