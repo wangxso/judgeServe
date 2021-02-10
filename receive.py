@@ -30,7 +30,7 @@ result = {
 
 def judge(suid, file_name):
     path = fr"./dist/{suid}"
-    cmd = fr"sudo Core -c {path}/{file_name} -t 1000 -m 65535 -d {path}"
+    cmd = fr"sudo ./Core -c {path}/{file_name} -t 1000 -m 65535 -d {path}"
     print(cmd)
     os.system(cmd)
 

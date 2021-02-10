@@ -1870,3 +1870,1144 @@ DEBUG [2021-02-07 17:46:46] [core.cpp:307] syscall: 231, in, count: -1
 TRACE [2021-02-07 17:46:46] [core.cpp:501] OK, normal quit. All is good.
 TRACE [2021-02-07 17:46:46] [core.cpp:55] The final result is Accepted 0 432 
 TRACE [2021-02-07 17:46:46] [logger.h:100] log_close
+NOTICE [2021-02-08 19:36:30] [logger.h:92] log_open
+TRACE [2021-02-08 19:36:30] [core.cpp:387]
+ [compiler] Start: gcc -o ./dist/f56638dc271e42bb8a51c29c25e29f1b/a.out ./dist/f56638dc271e42bb8a51c29c25e29f1b/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2021-02-08 19:36:30] [core.cpp:412] compiler finished
+TRACE [2021-02-08 19:36:30] [core.cpp:416] compile succeeded.
+TRACE [2021-02-08 19:36:30] [core.cpp:459] Start Judging.
+TRACE [2021-02-08 19:36:30] [core.cpp:160] Start to redirect the IO.
+TRACE [2021-02-08 19:36:30] [core.cpp:169] redirect io is OK.
+TRACE [2021-02-08 11:36:30] [logger.h:100] log_close
+DEBUG [2021-02-08 19:36:30] [core.cpp:307] syscall: 59, out, count: 1
+DEBUG [2021-02-08 19:36:30] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 19:36:30] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 19:36:30] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 19:36:30] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 19:36:30] [core.cpp:307] syscall: 158, in, count: -1
+DEBUG [2021-02-08 19:36:30] [core.cpp:307] syscall: 158, out, count: -1
+DEBUG [2021-02-08 19:36:30] [core.cpp:307] syscall: 63, in, count: -1
+DEBUG [2021-02-08 19:36:30] [core.cpp:307] syscall: 63, out, count: -1
+DEBUG [2021-02-08 19:36:30] [core.cpp:307] syscall: 89, in, count: -1
+DEBUG [2021-02-08 19:36:30] [core.cpp:307] syscall: 89, out, count: -1
+DEBUG [2021-02-08 19:36:30] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 19:36:30] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 19:36:30] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 19:36:30] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 19:36:30] [core.cpp:307] syscall: 5, in, count: -1
+DEBUG [2021-02-08 19:36:30] [core.cpp:307] syscall: 5, out, count: -1
+DEBUG [2021-02-08 19:36:30] [core.cpp:307] syscall: 1, in, count: -1
+DEBUG [2021-02-08 19:36:30] [core.cpp:307] syscall: 1, out, count: -1
+DEBUG [2021-02-08 19:36:30] [core.cpp:307] syscall: 231, in, count: -1
+TRACE [2021-02-08 19:36:30] [core.cpp:501] OK, normal quit. All is good.
+TRACE [2021-02-08 19:36:30] [core.cpp:55] The final result is Accepted 0 440 
+TRACE [2021-02-08 19:36:30] [logger.h:100] log_close
+NOTICE [2021-02-08 19:47:24] [logger.h:92] log_open
+TRACE [2021-02-08 19:47:24] [core.cpp:393]
+ [compiler] Start: g++ -o ./dist/26dd086978ab4d48a50715d5d2207fb4/a.out ./dist/26dd086978ab4d48a50715d5d2207fb4/test.cpp -static -w -lm -O2 -DONLINE_JUDGE
+TRACE [2021-02-08 19:47:25] [core.cpp:412] compiler finished
+TRACE [2021-02-08 19:47:25] [core.cpp:416] compile succeeded.
+TRACE [2021-02-08 19:47:25] [core.cpp:459] Start Judging.
+TRACE [2021-02-08 19:47:25] [core.cpp:160] Start to redirect the IO.
+TRACE [2021-02-08 19:47:25] [core.cpp:169] redirect io is OK.
+TRACE [2021-02-08 11:47:25] [logger.h:100] log_close
+DEBUG [2021-02-08 19:47:25] [core.cpp:307] syscall: 59, out, count: 1
+DEBUG [2021-02-08 19:47:25] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 19:47:25] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 19:47:25] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 19:47:25] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 19:47:25] [core.cpp:307] syscall: 158, in, count: -1
+DEBUG [2021-02-08 19:47:25] [core.cpp:307] syscall: 158, out, count: -1
+DEBUG [2021-02-08 19:47:25] [core.cpp:307] syscall: 63, in, count: -1
+DEBUG [2021-02-08 19:47:25] [core.cpp:307] syscall: 63, out, count: -1
+DEBUG [2021-02-08 19:47:25] [core.cpp:307] syscall: 89, in, count: -1
+DEBUG [2021-02-08 19:47:25] [core.cpp:307] syscall: 89, out, count: -1
+DEBUG [2021-02-08 19:47:25] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 19:47:25] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 19:47:25] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 19:47:25] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 19:47:25] [core.cpp:307] syscall: 5, in, count: -1
+DEBUG [2021-02-08 19:47:25] [core.cpp:307] syscall: 5, out, count: -1
+DEBUG [2021-02-08 19:47:25] [core.cpp:307] syscall: 5, in, count: -1
+DEBUG [2021-02-08 19:47:25] [core.cpp:307] syscall: 5, out, count: -1
+DEBUG [2021-02-08 19:47:25] [core.cpp:307] syscall: 1, in, count: -1
+DEBUG [2021-02-08 19:47:25] [core.cpp:307] syscall: 1, out, count: -1
+DEBUG [2021-02-08 19:47:25] [core.cpp:307] syscall: 231, in, count: -1
+TRACE [2021-02-08 19:47:25] [core.cpp:501] OK, normal quit. All is good.
+TRACE [2021-02-08 19:47:25] [core.cpp:55] The final result is Accepted 1 500 
+TRACE [2021-02-08 19:47:25] [logger.h:100] log_close
+NOTICE [2021-02-08 19:50:44] [logger.h:92] log_open
+TRACE [2021-02-08 19:50:44] [core.cpp:387]
+ [compiler] Start: gcc -o ./dist/92f49611c2c0421792eeaf605c18569a/a.out ./dist/92f49611c2c0421792eeaf605c18569a/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2021-02-08 19:50:44] [core.cpp:412] compiler finished
+TRACE [2021-02-08 19:50:44] [core.cpp:416] compile succeeded.
+TRACE [2021-02-08 19:50:44] [core.cpp:459] Start Judging.
+TRACE [2021-02-08 19:50:44] [core.cpp:160] Start to redirect the IO.
+TRACE [2021-02-08 19:50:44] [core.cpp:169] redirect io is OK.
+TRACE [2021-02-08 11:50:44] [logger.h:100] log_close
+DEBUG [2021-02-08 19:50:44] [core.cpp:307] syscall: 59, out, count: 1
+DEBUG [2021-02-08 19:50:44] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 19:50:44] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 19:50:44] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 19:50:44] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 19:50:44] [core.cpp:307] syscall: 158, in, count: -1
+DEBUG [2021-02-08 19:50:44] [core.cpp:307] syscall: 158, out, count: -1
+DEBUG [2021-02-08 19:50:44] [core.cpp:307] syscall: 63, in, count: -1
+DEBUG [2021-02-08 19:50:44] [core.cpp:307] syscall: 63, out, count: -1
+DEBUG [2021-02-08 19:50:44] [core.cpp:307] syscall: 89, in, count: -1
+DEBUG [2021-02-08 19:50:44] [core.cpp:307] syscall: 89, out, count: -1
+DEBUG [2021-02-08 19:50:44] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 19:50:44] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 19:50:44] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 19:50:44] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 19:50:44] [core.cpp:307] syscall: 5, in, count: -1
+DEBUG [2021-02-08 19:50:44] [core.cpp:307] syscall: 5, out, count: -1
+DEBUG [2021-02-08 19:50:44] [core.cpp:307] syscall: 5, in, count: -1
+DEBUG [2021-02-08 19:50:44] [core.cpp:307] syscall: 5, out, count: -1
+DEBUG [2021-02-08 19:50:44] [core.cpp:307] syscall: 1, in, count: -1
+DEBUG [2021-02-08 19:50:44] [core.cpp:307] syscall: 1, out, count: -1
+DEBUG [2021-02-08 19:50:44] [core.cpp:307] syscall: 8, in, count: -1
+DEBUG [2021-02-08 19:50:44] [core.cpp:307] syscall: 8, out, count: -1
+DEBUG [2021-02-08 19:50:44] [core.cpp:307] syscall: 231, in, count: -1
+TRACE [2021-02-08 19:50:44] [core.cpp:501] OK, normal quit. All is good.
+TRACE [2021-02-08 19:50:44] [core.cpp:55] The final result is Accepted 1 440 
+TRACE [2021-02-08 19:50:44] [logger.h:100] log_close
+NOTICE [2021-02-08 19:52:05] [logger.h:92] log_open
+TRACE [2021-02-08 19:52:05] [core.cpp:387]
+ [compiler] Start: gcc -o ./dist/e0a560ef20f144598fa2969382586e19/a.out ./dist/e0a560ef20f144598fa2969382586e19/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2021-02-08 19:52:05] [core.cpp:412] compiler finished
+TRACE [2021-02-08 19:52:05] [core.cpp:416] compile succeeded.
+TRACE [2021-02-08 19:52:05] [core.cpp:459] Start Judging.
+TRACE [2021-02-08 19:52:05] [core.cpp:160] Start to redirect the IO.
+TRACE [2021-02-08 19:52:05] [core.cpp:169] redirect io is OK.
+TRACE [2021-02-08 11:52:05] [logger.h:100] log_close
+DEBUG [2021-02-08 19:52:05] [core.cpp:307] syscall: 59, out, count: 1
+DEBUG [2021-02-08 19:52:05] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 19:52:05] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 19:52:05] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 19:52:05] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 19:52:05] [core.cpp:307] syscall: 158, in, count: -1
+DEBUG [2021-02-08 19:52:05] [core.cpp:307] syscall: 158, out, count: -1
+DEBUG [2021-02-08 19:52:05] [core.cpp:307] syscall: 63, in, count: -1
+DEBUG [2021-02-08 19:52:05] [core.cpp:307] syscall: 63, out, count: -1
+DEBUG [2021-02-08 19:52:05] [core.cpp:307] syscall: 89, in, count: -1
+DEBUG [2021-02-08 19:52:05] [core.cpp:307] syscall: 89, out, count: -1
+DEBUG [2021-02-08 19:52:05] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 19:52:05] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 19:52:05] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 19:52:05] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 19:52:05] [core.cpp:307] syscall: 5, in, count: -1
+DEBUG [2021-02-08 19:52:05] [core.cpp:307] syscall: 5, out, count: -1
+DEBUG [2021-02-08 19:52:05] [core.cpp:307] syscall: 5, in, count: -1
+DEBUG [2021-02-08 19:52:05] [core.cpp:307] syscall: 5, out, count: -1
+DEBUG [2021-02-08 19:52:05] [core.cpp:307] syscall: 1, in, count: -1
+DEBUG [2021-02-08 19:52:05] [core.cpp:307] syscall: 1, out, count: -1
+DEBUG [2021-02-08 19:52:05] [core.cpp:307] syscall: 8, in, count: -1
+DEBUG [2021-02-08 19:52:05] [core.cpp:307] syscall: 8, out, count: -1
+DEBUG [2021-02-08 19:52:05] [core.cpp:307] syscall: 231, in, count: -1
+TRACE [2021-02-08 19:52:05] [core.cpp:501] OK, normal quit. All is good.
+TRACE [2021-02-08 19:52:05] [core.cpp:55] The final result is Accepted 0 448 
+TRACE [2021-02-08 19:52:05] [logger.h:100] log_close
+NOTICE [2021-02-08 19:52:52] [logger.h:92] log_open
+TRACE [2021-02-08 19:52:52] [core.cpp:387]
+ [compiler] Start: gcc -o ./dist/e10ab6f2e25343738b115853175c97fc/a.out ./dist/e10ab6f2e25343738b115853175c97fc/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2021-02-08 19:52:52] [core.cpp:412] compiler finished
+TRACE [2021-02-08 19:52:52] [core.cpp:416] compile succeeded.
+TRACE [2021-02-08 19:52:52] [core.cpp:459] Start Judging.
+TRACE [2021-02-08 19:52:52] [core.cpp:160] Start to redirect the IO.
+TRACE [2021-02-08 19:52:52] [core.cpp:169] redirect io is OK.
+TRACE [2021-02-08 11:52:52] [logger.h:100] log_close
+DEBUG [2021-02-08 19:52:52] [core.cpp:307] syscall: 59, out, count: 1
+DEBUG [2021-02-08 19:52:52] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 19:52:52] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 19:52:52] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 19:52:52] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 19:52:52] [core.cpp:307] syscall: 158, in, count: -1
+DEBUG [2021-02-08 19:52:52] [core.cpp:307] syscall: 158, out, count: -1
+DEBUG [2021-02-08 19:52:52] [core.cpp:307] syscall: 63, in, count: -1
+DEBUG [2021-02-08 19:52:52] [core.cpp:307] syscall: 63, out, count: -1
+DEBUG [2021-02-08 19:52:52] [core.cpp:307] syscall: 89, in, count: -1
+DEBUG [2021-02-08 19:52:52] [core.cpp:307] syscall: 89, out, count: -1
+DEBUG [2021-02-08 19:52:52] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 19:52:52] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 19:52:52] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 19:52:52] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 19:52:52] [core.cpp:307] syscall: 5, in, count: -1
+DEBUG [2021-02-08 19:52:52] [core.cpp:307] syscall: 5, out, count: -1
+DEBUG [2021-02-08 19:52:52] [core.cpp:307] syscall: 5, in, count: -1
+DEBUG [2021-02-08 19:52:52] [core.cpp:307] syscall: 5, out, count: -1
+DEBUG [2021-02-08 19:52:52] [core.cpp:307] syscall: 1, in, count: -1
+DEBUG [2021-02-08 19:52:52] [core.cpp:307] syscall: 1, out, count: -1
+DEBUG [2021-02-08 19:52:52] [core.cpp:307] syscall: 8, in, count: -1
+DEBUG [2021-02-08 19:52:52] [core.cpp:307] syscall: 8, out, count: -1
+DEBUG [2021-02-08 19:52:52] [core.cpp:307] syscall: 231, in, count: -1
+TRACE [2021-02-08 19:52:52] [core.cpp:501] OK, normal quit. All is good.
+TRACE [2021-02-08 19:52:52] [core.cpp:55] The final result is Accepted 1 448 
+TRACE [2021-02-08 19:52:52] [logger.h:100] log_close
+NOTICE [2021-02-08 19:53:30] [logger.h:92] log_open
+TRACE [2021-02-08 19:53:30] [core.cpp:387]
+ [compiler] Start: gcc -o ./dist/01946e7defc5428181f8a36cd1415882/a.out ./dist/01946e7defc5428181f8a36cd1415882/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2021-02-08 19:53:31] [core.cpp:412] compiler finished
+TRACE [2021-02-08 19:53:31] [core.cpp:416] compile succeeded.
+TRACE [2021-02-08 19:53:31] [core.cpp:459] Start Judging.
+TRACE [2021-02-08 19:53:31] [core.cpp:160] Start to redirect the IO.
+TRACE [2021-02-08 19:53:31] [core.cpp:169] redirect io is OK.
+TRACE [2021-02-08 11:53:31] [logger.h:100] log_close
+DEBUG [2021-02-08 19:53:31] [core.cpp:307] syscall: 59, out, count: 1
+DEBUG [2021-02-08 19:53:31] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 19:53:31] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 19:53:31] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 19:53:31] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 19:53:31] [core.cpp:307] syscall: 158, in, count: -1
+DEBUG [2021-02-08 19:53:31] [core.cpp:307] syscall: 158, out, count: -1
+DEBUG [2021-02-08 19:53:31] [core.cpp:307] syscall: 63, in, count: -1
+DEBUG [2021-02-08 19:53:31] [core.cpp:307] syscall: 63, out, count: -1
+DEBUG [2021-02-08 19:53:31] [core.cpp:307] syscall: 89, in, count: -1
+DEBUG [2021-02-08 19:53:31] [core.cpp:307] syscall: 89, out, count: -1
+DEBUG [2021-02-08 19:53:31] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 19:53:31] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 19:53:31] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 19:53:31] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 19:53:31] [core.cpp:307] syscall: 5, in, count: -1
+DEBUG [2021-02-08 19:53:31] [core.cpp:307] syscall: 5, out, count: -1
+DEBUG [2021-02-08 19:53:31] [core.cpp:307] syscall: 5, in, count: -1
+DEBUG [2021-02-08 19:53:31] [core.cpp:307] syscall: 5, out, count: -1
+DEBUG [2021-02-08 19:53:31] [core.cpp:307] syscall: 1, in, count: -1
+DEBUG [2021-02-08 19:53:31] [core.cpp:307] syscall: 1, out, count: -1
+DEBUG [2021-02-08 19:53:31] [core.cpp:307] syscall: 8, in, count: -1
+DEBUG [2021-02-08 19:53:31] [core.cpp:307] syscall: 8, out, count: -1
+DEBUG [2021-02-08 19:53:31] [core.cpp:307] syscall: 231, in, count: -1
+TRACE [2021-02-08 19:53:31] [core.cpp:501] OK, normal quit. All is good.
+TRACE [2021-02-08 19:53:31] [core.cpp:55] The final result is Accepted 1 436 
+TRACE [2021-02-08 19:53:31] [logger.h:100] log_close
+NOTICE [2021-02-08 19:54:00] [logger.h:92] log_open
+TRACE [2021-02-08 19:54:00] [core.cpp:387]
+ [compiler] Start: gcc -o ./dist/50c91d7883134421bc0f99bb7219937e/a.out ./dist/50c91d7883134421bc0f99bb7219937e/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2021-02-08 19:54:00] [core.cpp:412] compiler finished
+TRACE [2021-02-08 19:54:00] [core.cpp:416] compile succeeded.
+TRACE [2021-02-08 19:54:00] [core.cpp:459] Start Judging.
+TRACE [2021-02-08 19:54:00] [core.cpp:160] Start to redirect the IO.
+TRACE [2021-02-08 19:54:00] [core.cpp:169] redirect io is OK.
+TRACE [2021-02-08 11:54:00] [logger.h:100] log_close
+DEBUG [2021-02-08 19:54:00] [core.cpp:307] syscall: 59, out, count: 1
+DEBUG [2021-02-08 19:54:00] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 19:54:00] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 19:54:00] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 19:54:00] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 19:54:00] [core.cpp:307] syscall: 158, in, count: -1
+DEBUG [2021-02-08 19:54:00] [core.cpp:307] syscall: 158, out, count: -1
+DEBUG [2021-02-08 19:54:00] [core.cpp:307] syscall: 63, in, count: -1
+DEBUG [2021-02-08 19:54:00] [core.cpp:307] syscall: 63, out, count: -1
+DEBUG [2021-02-08 19:54:00] [core.cpp:307] syscall: 89, in, count: -1
+DEBUG [2021-02-08 19:54:00] [core.cpp:307] syscall: 89, out, count: -1
+DEBUG [2021-02-08 19:54:00] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 19:54:00] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 19:54:00] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 19:54:00] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 19:54:00] [core.cpp:307] syscall: 5, in, count: -1
+DEBUG [2021-02-08 19:54:00] [core.cpp:307] syscall: 5, out, count: -1
+DEBUG [2021-02-08 19:54:00] [core.cpp:307] syscall: 5, in, count: -1
+DEBUG [2021-02-08 19:54:00] [core.cpp:307] syscall: 5, out, count: -1
+DEBUG [2021-02-08 19:54:00] [core.cpp:307] syscall: 1, in, count: -1
+DEBUG [2021-02-08 19:54:00] [core.cpp:307] syscall: 1, out, count: -1
+DEBUG [2021-02-08 19:54:00] [core.cpp:307] syscall: 8, in, count: -1
+DEBUG [2021-02-08 19:54:00] [core.cpp:307] syscall: 8, out, count: -1
+DEBUG [2021-02-08 19:54:00] [core.cpp:307] syscall: 231, in, count: -1
+TRACE [2021-02-08 19:54:00] [core.cpp:501] OK, normal quit. All is good.
+TRACE [2021-02-08 19:54:00] [core.cpp:55] The final result is Accepted 1 440 
+TRACE [2021-02-08 19:54:00] [logger.h:100] log_close
+NOTICE [2021-02-08 19:55:42] [logger.h:92] log_open
+TRACE [2021-02-08 19:55:42] [core.cpp:398]
+ [compiler] Start:javac ./dist/b3c8913280b449af8fcbdb26f8d9785f/Main.java -d ./dist/b3c8913280b449af8fcbdb26f8d9785f
+TRACE [2021-02-08 19:55:43] [core.cpp:412] compiler finished
+TRACE [2021-02-08 19:55:43] [core.cpp:416] compile succeeded.
+TRACE [2021-02-08 19:55:43] [core.cpp:459] Start Judging.
+TRACE [2021-02-08 19:55:43] [core.cpp:160] Start to redirect the IO.
+TRACE [2021-02-08 19:55:43] [core.cpp:169] redirect io is OK.
+TRACE [2021-02-08 19:55:43] [logger.h:100] log_close
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 59, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 89, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 89, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 21, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 21, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 4, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 4, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 4, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 4, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 4, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 4, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 4, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 4, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 4, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 4, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 4, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 4, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 4, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 4, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 4, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 4, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 4, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 4, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 4, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 4, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 4, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 4, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 4, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 4, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 4, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 4, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 4, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 4, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 4, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 4, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 4, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 4, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 5, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 5, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 3, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 3, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 5, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 5, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 3, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 3, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 5, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 5, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 10, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 10, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 3, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 3, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 5, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 5, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 3, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 3, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 5, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 5, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 10, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 10, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 3, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 3, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 158, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 158, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 10, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 10, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 10, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 10, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 10, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 10, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 10, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 10, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 10, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 10, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 10, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 10, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 11, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 11, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 218, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 218, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 273, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 273, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 13, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 13, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 13, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 13, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 14, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 14, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 302, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 302, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 89, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 89, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 21, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 21, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 21, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 21, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 5, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 5, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 3, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 3, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 4, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 4, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 202, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 202, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 5, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 5, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 10, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 10, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 3, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 3, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 5, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 5, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 3, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 3, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 5, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 5, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 3, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 3, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 10, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 10, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 10, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 10, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 39, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 39, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 11, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 11, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 39, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 39, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 10, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 10, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 56, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 56, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 202, in, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 202, out, count: -1
+DEBUG [2021-02-08 19:55:43] [core.cpp:307] syscall: 231, in, count: -1
+TRACE [2021-02-08 19:55:43] [core.cpp:501] OK, normal quit. All is good.
+TRACE [2021-02-08 19:55:43] [core.cpp:55] The final result is Accepted 88 12176 
+TRACE [2021-02-08 19:55:43] [logger.h:100] log_close
+NOTICE [2021-02-08 19:56:11] [logger.h:92] log_open
+TRACE [2021-02-08 19:56:11] [core.cpp:398]
+ [compiler] Start:javac ./dist/9f8a01d571ff44ea9bd3a49b7e3b22e2/Main.java -d ./dist/9f8a01d571ff44ea9bd3a49b7e3b22e2
+TRACE [2021-02-08 19:56:12] [core.cpp:412] compiler finished
+TRACE [2021-02-08 19:56:12] [core.cpp:416] compile succeeded.
+TRACE [2021-02-08 19:56:12] [core.cpp:459] Start Judging.
+TRACE [2021-02-08 19:56:12] [core.cpp:160] Start to redirect the IO.
+TRACE [2021-02-08 19:56:12] [core.cpp:169] redirect io is OK.
+TRACE [2021-02-08 19:56:12] [logger.h:100] log_close
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 59, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 89, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 89, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 21, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 21, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 4, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 4, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 4, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 4, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 4, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 4, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 4, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 4, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 4, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 4, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 4, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 4, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 4, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 4, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 4, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 4, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 4, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 4, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 4, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 4, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 4, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 4, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 4, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 4, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 4, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 4, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 4, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 4, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 4, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 4, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 4, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 4, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 5, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 5, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 3, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 3, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 5, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 5, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 3, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 3, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 5, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 5, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 10, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 10, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 3, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 3, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 5, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 5, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 3, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 3, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 5, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 5, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 10, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 10, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 3, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 3, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 158, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 158, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 10, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 10, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 10, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 10, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 10, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 10, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 10, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 10, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 10, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 10, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 10, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 10, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 11, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 11, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 218, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 218, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 273, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 273, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 13, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 13, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 13, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 13, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 14, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 14, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 302, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 302, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 89, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 89, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 21, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 21, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 21, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 21, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 5, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 5, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 3, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 3, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 4, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 4, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 202, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 202, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 5, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 5, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 10, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 10, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 3, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 3, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 5, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 5, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 3, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 3, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 257, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 5, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 5, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 3, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 3, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 10, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 10, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 10, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 10, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 39, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 39, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 11, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 11, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 39, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 39, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 9, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 10, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 10, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 56, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 56, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 202, in, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 202, out, count: -1
+DEBUG [2021-02-08 19:56:12] [core.cpp:307] syscall: 231, in, count: -1
+TRACE [2021-02-08 19:56:12] [core.cpp:501] OK, normal quit. All is good.
+TRACE [2021-02-08 19:56:12] [core.cpp:55] The final result is Accepted 95 12172 
+TRACE [2021-02-08 19:56:12] [logger.h:100] log_close
+NOTICE [2021-02-08 19:57:29] [logger.h:92] log_open
+TRACE [2021-02-08 19:57:29] [core.cpp:387]
+ [compiler] Start: gcc -o ./dist/114110c146114b17b4510f84ff974547/a.out ./dist/114110c146114b17b4510f84ff974547/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2021-02-08 19:57:29] [core.cpp:412] compiler finished
+TRACE [2021-02-08 19:57:29] [core.cpp:416] compile succeeded.
+TRACE [2021-02-08 19:57:29] [core.cpp:459] Start Judging.
+TRACE [2021-02-08 19:57:29] [core.cpp:160] Start to redirect the IO.
+TRACE [2021-02-08 19:57:29] [core.cpp:169] redirect io is OK.
+TRACE [2021-02-08 11:57:29] [logger.h:100] log_close
+DEBUG [2021-02-08 19:57:29] [core.cpp:307] syscall: 59, out, count: 1
+DEBUG [2021-02-08 19:57:29] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 19:57:29] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 19:57:29] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 19:57:29] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 19:57:29] [core.cpp:307] syscall: 158, in, count: -1
+DEBUG [2021-02-08 19:57:29] [core.cpp:307] syscall: 158, out, count: -1
+DEBUG [2021-02-08 19:57:29] [core.cpp:307] syscall: 63, in, count: -1
+DEBUG [2021-02-08 19:57:29] [core.cpp:307] syscall: 63, out, count: -1
+DEBUG [2021-02-08 19:57:29] [core.cpp:307] syscall: 89, in, count: -1
+DEBUG [2021-02-08 19:57:29] [core.cpp:307] syscall: 89, out, count: -1
+DEBUG [2021-02-08 19:57:29] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 19:57:29] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 19:57:29] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 19:57:29] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 19:57:29] [core.cpp:307] syscall: 5, in, count: -1
+DEBUG [2021-02-08 19:57:29] [core.cpp:307] syscall: 5, out, count: -1
+DEBUG [2021-02-08 19:57:29] [core.cpp:307] syscall: 5, in, count: -1
+DEBUG [2021-02-08 19:57:29] [core.cpp:307] syscall: 5, out, count: -1
+DEBUG [2021-02-08 19:57:29] [core.cpp:307] syscall: 1, in, count: -1
+DEBUG [2021-02-08 19:57:29] [core.cpp:307] syscall: 1, out, count: -1
+DEBUG [2021-02-08 19:57:29] [core.cpp:307] syscall: 8, in, count: -1
+DEBUG [2021-02-08 19:57:29] [core.cpp:307] syscall: 8, out, count: -1
+DEBUG [2021-02-08 19:57:29] [core.cpp:307] syscall: 231, in, count: -1
+TRACE [2021-02-08 19:57:29] [core.cpp:501] OK, normal quit. All is good.
+TRACE [2021-02-08 19:57:29] [core.cpp:55] The final result is Accepted 1 448 
+TRACE [2021-02-08 19:57:29] [logger.h:100] log_close
+NOTICE [2021-02-08 19:58:06] [logger.h:92] log_open
+TRACE [2021-02-08 19:58:06] [core.cpp:387]
+ [compiler] Start: gcc -o ./dist/6383bb7ccb5b45d6b0093a069ac5d9bc/a.out ./dist/6383bb7ccb5b45d6b0093a069ac5d9bc/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2021-02-08 19:58:06] [core.cpp:412] compiler finished
+TRACE [2021-02-08 19:58:06] [core.cpp:416] compile succeeded.
+TRACE [2021-02-08 19:58:06] [core.cpp:459] Start Judging.
+TRACE [2021-02-08 19:58:06] [core.cpp:160] Start to redirect the IO.
+TRACE [2021-02-08 19:58:06] [core.cpp:169] redirect io is OK.
+TRACE [2021-02-08 11:58:06] [logger.h:100] log_close
+DEBUG [2021-02-08 19:58:06] [core.cpp:307] syscall: 59, out, count: 1
+DEBUG [2021-02-08 19:58:06] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 19:58:06] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 19:58:06] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 19:58:06] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 19:58:06] [core.cpp:307] syscall: 158, in, count: -1
+DEBUG [2021-02-08 19:58:06] [core.cpp:307] syscall: 158, out, count: -1
+DEBUG [2021-02-08 19:58:06] [core.cpp:307] syscall: 63, in, count: -1
+DEBUG [2021-02-08 19:58:06] [core.cpp:307] syscall: 63, out, count: -1
+DEBUG [2021-02-08 19:58:06] [core.cpp:307] syscall: 89, in, count: -1
+DEBUG [2021-02-08 19:58:06] [core.cpp:307] syscall: 89, out, count: -1
+DEBUG [2021-02-08 19:58:06] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 19:58:06] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 19:58:06] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 19:58:06] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 19:58:06] [core.cpp:307] syscall: 5, in, count: -1
+DEBUG [2021-02-08 19:58:06] [core.cpp:307] syscall: 5, out, count: -1
+DEBUG [2021-02-08 19:58:06] [core.cpp:307] syscall: 5, in, count: -1
+DEBUG [2021-02-08 19:58:06] [core.cpp:307] syscall: 5, out, count: -1
+DEBUG [2021-02-08 19:58:06] [core.cpp:307] syscall: 1, in, count: -1
+DEBUG [2021-02-08 19:58:06] [core.cpp:307] syscall: 1, out, count: -1
+DEBUG [2021-02-08 19:58:06] [core.cpp:307] syscall: 8, in, count: -1
+DEBUG [2021-02-08 19:58:06] [core.cpp:307] syscall: 8, out, count: -1
+DEBUG [2021-02-08 19:58:06] [core.cpp:307] syscall: 231, in, count: -1
+TRACE [2021-02-08 19:58:06] [core.cpp:501] OK, normal quit. All is good.
+TRACE [2021-02-08 19:58:06] [core.cpp:55] The final result is Accepted 1 440 
+TRACE [2021-02-08 19:58:06] [logger.h:100] log_close
+NOTICE [2021-02-08 19:59:38] [logger.h:92] log_open
+TRACE [2021-02-08 19:59:38] [core.cpp:387]
+ [compiler] Start: gcc -o ./dist/417075877c9f42369c23a35c934a0292/a.out ./dist/417075877c9f42369c23a35c934a0292/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2021-02-08 19:59:38] [core.cpp:412] compiler finished
+TRACE [2021-02-08 19:59:38] [core.cpp:416] compile succeeded.
+TRACE [2021-02-08 19:59:38] [core.cpp:459] Start Judging.
+TRACE [2021-02-08 19:59:38] [core.cpp:160] Start to redirect the IO.
+TRACE [2021-02-08 19:59:38] [core.cpp:169] redirect io is OK.
+TRACE [2021-02-08 11:59:38] [logger.h:100] log_close
+DEBUG [2021-02-08 19:59:38] [core.cpp:307] syscall: 59, out, count: 1
+DEBUG [2021-02-08 19:59:38] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 19:59:38] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 19:59:38] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 19:59:38] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 19:59:38] [core.cpp:307] syscall: 158, in, count: -1
+DEBUG [2021-02-08 19:59:38] [core.cpp:307] syscall: 158, out, count: -1
+DEBUG [2021-02-08 19:59:38] [core.cpp:307] syscall: 63, in, count: -1
+DEBUG [2021-02-08 19:59:38] [core.cpp:307] syscall: 63, out, count: -1
+DEBUG [2021-02-08 19:59:38] [core.cpp:307] syscall: 89, in, count: -1
+DEBUG [2021-02-08 19:59:38] [core.cpp:307] syscall: 89, out, count: -1
+DEBUG [2021-02-08 19:59:38] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 19:59:38] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 19:59:38] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 19:59:38] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 19:59:38] [core.cpp:307] syscall: 5, in, count: -1
+DEBUG [2021-02-08 19:59:38] [core.cpp:307] syscall: 5, out, count: -1
+DEBUG [2021-02-08 19:59:38] [core.cpp:307] syscall: 5, in, count: -1
+DEBUG [2021-02-08 19:59:38] [core.cpp:307] syscall: 5, out, count: -1
+DEBUG [2021-02-08 19:59:38] [core.cpp:307] syscall: 1, in, count: -1
+DEBUG [2021-02-08 19:59:38] [core.cpp:307] syscall: 1, out, count: -1
+DEBUG [2021-02-08 19:59:38] [core.cpp:307] syscall: 8, in, count: -1
+DEBUG [2021-02-08 19:59:38] [core.cpp:307] syscall: 8, out, count: -1
+DEBUG [2021-02-08 19:59:38] [core.cpp:307] syscall: 231, in, count: -1
+TRACE [2021-02-08 19:59:38] [core.cpp:501] OK, normal quit. All is good.
+TRACE [2021-02-08 19:59:38] [core.cpp:55] The final result is Accepted 1 444 
+TRACE [2021-02-08 19:59:38] [logger.h:100] log_close
+NOTICE [2021-02-08 20:03:01] [logger.h:92] log_open
+TRACE [2021-02-08 20:03:01] [core.cpp:387]
+ [compiler] Start: gcc -o ./dist/d50fe5e994c54b68a2f2aa2e91cf18d5/a.out ./dist/d50fe5e994c54b68a2f2aa2e91cf18d5/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2021-02-08 20:03:01] [core.cpp:412] compiler finished
+TRACE [2021-02-08 20:03:01] [core.cpp:416] compile succeeded.
+TRACE [2021-02-08 20:03:01] [core.cpp:459] Start Judging.
+TRACE [2021-02-08 20:03:01] [core.cpp:160] Start to redirect the IO.
+TRACE [2021-02-08 20:03:01] [core.cpp:169] redirect io is OK.
+TRACE [2021-02-08 12:03:01] [logger.h:100] log_close
+DEBUG [2021-02-08 20:03:01] [core.cpp:307] syscall: 59, out, count: 1
+DEBUG [2021-02-08 20:03:01] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 20:03:01] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 20:03:01] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 20:03:01] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 20:03:01] [core.cpp:307] syscall: 158, in, count: -1
+DEBUG [2021-02-08 20:03:01] [core.cpp:307] syscall: 158, out, count: -1
+DEBUG [2021-02-08 20:03:01] [core.cpp:307] syscall: 63, in, count: -1
+DEBUG [2021-02-08 20:03:01] [core.cpp:307] syscall: 63, out, count: -1
+DEBUG [2021-02-08 20:03:01] [core.cpp:307] syscall: 89, in, count: -1
+DEBUG [2021-02-08 20:03:01] [core.cpp:307] syscall: 89, out, count: -1
+DEBUG [2021-02-08 20:03:01] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 20:03:01] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 20:03:01] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 20:03:01] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 20:03:01] [core.cpp:307] syscall: 5, in, count: -1
+DEBUG [2021-02-08 20:03:01] [core.cpp:307] syscall: 5, out, count: -1
+DEBUG [2021-02-08 20:03:01] [core.cpp:307] syscall: 5, in, count: -1
+DEBUG [2021-02-08 20:03:01] [core.cpp:307] syscall: 5, out, count: -1
+DEBUG [2021-02-08 20:03:01] [core.cpp:307] syscall: 1, in, count: -1
+DEBUG [2021-02-08 20:03:01] [core.cpp:307] syscall: 1, out, count: -1
+DEBUG [2021-02-08 20:03:01] [core.cpp:307] syscall: 8, in, count: -1
+DEBUG [2021-02-08 20:03:01] [core.cpp:307] syscall: 8, out, count: -1
+DEBUG [2021-02-08 20:03:01] [core.cpp:307] syscall: 231, in, count: -1
+TRACE [2021-02-08 20:03:01] [core.cpp:501] OK, normal quit. All is good.
+TRACE [2021-02-08 20:03:01] [core.cpp:55] The final result is Accepted 1 440 
+TRACE [2021-02-08 20:03:01] [logger.h:100] log_close
+NOTICE [2021-02-08 20:03:17] [logger.h:92] log_open
+TRACE [2021-02-08 20:03:17] [core.cpp:387]
+ [compiler] Start: gcc -o ./dist/5520cbebea944b3c92f0076e8fc81a21/a.out ./dist/5520cbebea944b3c92f0076e8fc81a21/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2021-02-08 20:03:17] [core.cpp:412] compiler finished
+TRACE [2021-02-08 20:03:17] [core.cpp:416] compile succeeded.
+TRACE [2021-02-08 20:03:17] [core.cpp:459] Start Judging.
+TRACE [2021-02-08 20:03:17] [core.cpp:160] Start to redirect the IO.
+TRACE [2021-02-08 20:03:17] [core.cpp:169] redirect io is OK.
+TRACE [2021-02-08 12:03:17] [logger.h:100] log_close
+DEBUG [2021-02-08 20:03:17] [core.cpp:307] syscall: 59, out, count: 1
+DEBUG [2021-02-08 20:03:17] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 20:03:17] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 20:03:17] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 20:03:17] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 20:03:17] [core.cpp:307] syscall: 158, in, count: -1
+DEBUG [2021-02-08 20:03:17] [core.cpp:307] syscall: 158, out, count: -1
+DEBUG [2021-02-08 20:03:17] [core.cpp:307] syscall: 63, in, count: -1
+DEBUG [2021-02-08 20:03:17] [core.cpp:307] syscall: 63, out, count: -1
+DEBUG [2021-02-08 20:03:17] [core.cpp:307] syscall: 89, in, count: -1
+DEBUG [2021-02-08 20:03:17] [core.cpp:307] syscall: 89, out, count: -1
+DEBUG [2021-02-08 20:03:17] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 20:03:17] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 20:03:17] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-08 20:03:17] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-08 20:03:17] [core.cpp:307] syscall: 5, in, count: -1
+DEBUG [2021-02-08 20:03:17] [core.cpp:307] syscall: 5, out, count: -1
+DEBUG [2021-02-08 20:03:17] [core.cpp:307] syscall: 5, in, count: -1
+DEBUG [2021-02-08 20:03:17] [core.cpp:307] syscall: 5, out, count: -1
+DEBUG [2021-02-08 20:03:17] [core.cpp:307] syscall: 1, in, count: -1
+DEBUG [2021-02-08 20:03:17] [core.cpp:307] syscall: 1, out, count: -1
+DEBUG [2021-02-08 20:03:17] [core.cpp:307] syscall: 8, in, count: -1
+DEBUG [2021-02-08 20:03:17] [core.cpp:307] syscall: 8, out, count: -1
+DEBUG [2021-02-08 20:03:17] [core.cpp:307] syscall: 231, in, count: -1
+TRACE [2021-02-08 20:03:17] [core.cpp:501] OK, normal quit. All is good.
+TRACE [2021-02-08 20:03:17] [core.cpp:55] The final result is Accepted 1 436 
+TRACE [2021-02-08 20:03:17] [logger.h:100] log_close
+NOTICE [2021-02-08 20:03:37] [logger.h:92] log_open
+TRACE [2021-02-08 20:03:37] [core.cpp:387]
+ [compiler] Start: gcc -o ./dist/2ee713eb5ee44795a76ec1b3447103c8/a.out ./dist/2ee713eb5ee44795a76ec1b3447103c8/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2021-02-08 20:03:37] [core.cpp:412] compiler finished
+TRACE [2021-02-08 20:03:37] [core.cpp:419] compile error
+TRACE [2021-02-08 20:03:37] [core.cpp:55] The final result is Compile Error 0 0 ./dist/2ee713eb5ee44795a76ec1b3447103c8/test.c: In function ‘main’:
+./dist/2ee713eb5ee44795a76ec1b3447103c8/test.c:6:13: error: expected ‘;’ before ‘}’ token
+     return 0
+             ^
+             ;
+ }
+ ~            
+
+TRACE [2021-02-08 20:03:37] [logger.h:100] log_close
+NOTICE [2021-02-09 09:50:12] [logger.h:92] log_open
+TRACE [2021-02-09 09:50:12] [core.cpp:387]
+ [compiler] Start: gcc -o ./dist/10b1c0925b92404e80f6ece0e3a9a820/a.out ./dist/10b1c0925b92404e80f6ece0e3a9a820/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2021-02-09 09:50:12] [core.cpp:412] compiler finished
+TRACE [2021-02-09 09:50:12] [core.cpp:416] compile succeeded.
+TRACE [2021-02-09 09:50:12] [core.cpp:459] Start Judging.
+TRACE [2021-02-09 09:50:12] [core.cpp:160] Start to redirect the IO.
+TRACE [2021-02-09 09:50:12] [core.cpp:169] redirect io is OK.
+TRACE [2021-02-09 01:50:12] [logger.h:100] log_close
+DEBUG [2021-02-09 09:50:12] [core.cpp:307] syscall: 59, out, count: 1
+DEBUG [2021-02-09 09:50:12] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-09 09:50:12] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-09 09:50:12] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-09 09:50:12] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-09 09:50:12] [core.cpp:307] syscall: 158, in, count: -1
+DEBUG [2021-02-09 09:50:12] [core.cpp:307] syscall: 158, out, count: -1
+DEBUG [2021-02-09 09:50:12] [core.cpp:307] syscall: 63, in, count: -1
+DEBUG [2021-02-09 09:50:12] [core.cpp:307] syscall: 63, out, count: -1
+DEBUG [2021-02-09 09:50:12] [core.cpp:307] syscall: 89, in, count: -1
+DEBUG [2021-02-09 09:50:12] [core.cpp:307] syscall: 89, out, count: -1
+DEBUG [2021-02-09 09:50:12] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-09 09:50:12] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-09 09:50:12] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-09 09:50:12] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-09 09:50:12] [core.cpp:307] syscall: 5, in, count: -1
+DEBUG [2021-02-09 09:50:12] [core.cpp:307] syscall: 5, out, count: -1
+DEBUG [2021-02-09 09:50:12] [core.cpp:307] syscall: 1, in, count: -1
+DEBUG [2021-02-09 09:50:12] [core.cpp:307] syscall: 1, out, count: -1
+DEBUG [2021-02-09 09:50:12] [core.cpp:307] syscall: 231, in, count: -1
+TRACE [2021-02-09 09:50:12] [core.cpp:501] OK, normal quit. All is good.
+TRACE [2021-02-09 09:50:12] [core.cpp:55] The final result is Accepted 0 432 
+TRACE [2021-02-09 09:50:12] [logger.h:100] log_close
+NOTICE [2021-02-10 09:40:07] [logger.h:92] log_open
+TRACE [2021-02-10 09:40:07] [core.cpp:387]
+ [compiler] Start: gcc -o ./dist/808fff77821a45f9b81635db395859b1/a.out ./dist/808fff77821a45f9b81635db395859b1/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2021-02-10 09:40:08] [core.cpp:412] compiler finished
+TRACE [2021-02-10 09:40:08] [core.cpp:419] compile error
+TRACE [2021-02-10 09:40:08] [core.cpp:55] The final result is Compile Error 0 0 ./dist/808fff77821a45f9b81635db395859b1/test.c:1:1: error: expected identifier or ‘(’ before numeric constant
+ 1
+ ^
+
+TRACE [2021-02-10 09:40:08] [logger.h:100] log_close
+NOTICE [2021-02-10 10:25:20] [logger.h:92] log_open
+TRACE [2021-02-10 10:25:20] [core.cpp:387]
+ [compiler] Start: gcc -o ./dist/29e38ae8ab2242619add46abf3836eed/a.out ./dist/29e38ae8ab2242619add46abf3836eed/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2021-02-10 10:25:21] [core.cpp:412] compiler finished
+TRACE [2021-02-10 10:25:21] [core.cpp:416] compile succeeded.
+TRACE [2021-02-10 10:25:21] [core.cpp:459] Start Judging.
+TRACE [2021-02-10 10:25:21] [core.cpp:160] Start to redirect the IO.
+TRACE [2021-02-10 10:25:21] [core.cpp:169] redirect io is OK.
+TRACE [2021-02-10 02:25:21] [logger.h:100] log_close
+DEBUG [2021-02-10 10:25:21] [core.cpp:307] syscall: 59, out, count: 1
+DEBUG [2021-02-10 10:25:21] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-10 10:25:21] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-10 10:25:21] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-10 10:25:21] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-10 10:25:21] [core.cpp:307] syscall: 158, in, count: -1
+DEBUG [2021-02-10 10:25:21] [core.cpp:307] syscall: 158, out, count: -1
+DEBUG [2021-02-10 10:25:21] [core.cpp:307] syscall: 63, in, count: -1
+DEBUG [2021-02-10 10:25:21] [core.cpp:307] syscall: 63, out, count: -1
+DEBUG [2021-02-10 10:25:21] [core.cpp:307] syscall: 89, in, count: -1
+DEBUG [2021-02-10 10:25:21] [core.cpp:307] syscall: 89, out, count: -1
+DEBUG [2021-02-10 10:25:21] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-10 10:25:21] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-10 10:25:21] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-10 10:25:21] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-10 10:25:21] [core.cpp:307] syscall: 5, in, count: -1
+DEBUG [2021-02-10 10:25:21] [core.cpp:307] syscall: 5, out, count: -1
+DEBUG [2021-02-10 10:25:21] [core.cpp:307] syscall: 5, in, count: -1
+DEBUG [2021-02-10 10:25:21] [core.cpp:307] syscall: 5, out, count: -1
+WARNING [2021-02-10 10:25:22] [core.cpp:520] child stop by 14 : Alarm clock
+
+TRACE [2021-02-10 10:25:22] [core.cpp:529] Well, Time Limit Exceeded
+TRACE [2021-02-10 10:25:22] [core.cpp:55] The final result is Time Limit Exceeded 0 0 
+TRACE [2021-02-10 10:25:22] [logger.h:100] log_close
+NOTICE [2021-02-10 10:26:52] [logger.h:92] log_open
+TRACE [2021-02-10 10:26:52] [core.cpp:387]
+ [compiler] Start: gcc -o ./dist/e4a6cdd4b029436e91e52a06db5fb843/a.out ./dist/e4a6cdd4b029436e91e52a06db5fb843/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2021-02-10 10:26:52] [core.cpp:412] compiler finished
+TRACE [2021-02-10 10:26:52] [core.cpp:419] compile error
+TRACE [2021-02-10 10:26:52] [core.cpp:55] The final result is Compile Error 0 0 ./dist/e4a6cdd4b029436e91e52a06db5fb843/test.c: In function ‘main’:
+./dist/e4a6cdd4b029436e91e52a06db5fb843/test.c:4:8: error: conflicting types for ‘a’
+    int a[10];
+        ^
+./dist/e4a6cdd4b029436e91e52a06db5fb843/test.c:3:9: note: previous declaration of ‘a’ was here
+     int a, b;
+         ^
+
+TRACE [2021-02-10 10:26:52] [logger.h:100] log_close
+NOTICE [2021-02-10 10:27:21] [logger.h:92] log_open
+TRACE [2021-02-10 10:27:21] [core.cpp:387]
+ [compiler] Start: gcc -o ./dist/bdca282b707d4068a738c8e159eedef4/a.out ./dist/bdca282b707d4068a738c8e159eedef4/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2021-02-10 10:27:21] [core.cpp:412] compiler finished
+TRACE [2021-02-10 10:27:21] [core.cpp:416] compile succeeded.
+TRACE [2021-02-10 10:27:21] [core.cpp:459] Start Judging.
+TRACE [2021-02-10 10:27:21] [core.cpp:160] Start to redirect the IO.
+TRACE [2021-02-10 10:27:21] [core.cpp:169] redirect io is OK.
+TRACE [2021-02-10 02:27:21] [logger.h:100] log_close
+DEBUG [2021-02-10 10:27:21] [core.cpp:307] syscall: 59, out, count: 1
+DEBUG [2021-02-10 10:27:21] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-10 10:27:21] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-10 10:27:21] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-10 10:27:21] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-10 10:27:21] [core.cpp:307] syscall: 158, in, count: -1
+DEBUG [2021-02-10 10:27:21] [core.cpp:307] syscall: 158, out, count: -1
+DEBUG [2021-02-10 10:27:21] [core.cpp:307] syscall: 63, in, count: -1
+DEBUG [2021-02-10 10:27:21] [core.cpp:307] syscall: 63, out, count: -1
+DEBUG [2021-02-10 10:27:21] [core.cpp:307] syscall: 89, in, count: -1
+DEBUG [2021-02-10 10:27:21] [core.cpp:307] syscall: 89, out, count: -1
+DEBUG [2021-02-10 10:27:21] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-10 10:27:21] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-10 10:27:21] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-10 10:27:21] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-10 10:27:21] [core.cpp:307] syscall: 5, in, count: -1
+DEBUG [2021-02-10 10:27:21] [core.cpp:307] syscall: 5, out, count: -1
+DEBUG [2021-02-10 10:27:21] [core.cpp:307] syscall: 5, in, count: -1
+DEBUG [2021-02-10 10:27:21] [core.cpp:307] syscall: 5, out, count: -1
+DEBUG [2021-02-10 10:27:21] [core.cpp:307] syscall: 1, in, count: -1
+DEBUG [2021-02-10 10:27:21] [core.cpp:307] syscall: 1, out, count: -1
+DEBUG [2021-02-10 10:27:21] [core.cpp:307] syscall: 8, in, count: -1
+DEBUG [2021-02-10 10:27:21] [core.cpp:307] syscall: 8, out, count: -1
+DEBUG [2021-02-10 10:27:21] [core.cpp:307] syscall: 231, in, count: -1
+TRACE [2021-02-10 10:27:21] [core.cpp:501] OK, normal quit. All is good.
+TRACE [2021-02-10 10:27:21] [core.cpp:55] The final result is Accepted 0 444 
+TRACE [2021-02-10 10:27:21] [logger.h:100] log_close
+NOTICE [2021-02-10 10:27:36] [logger.h:92] log_open
+TRACE [2021-02-10 10:27:36] [core.cpp:387]
+ [compiler] Start: gcc -o ./dist/54c14a9e47ed4583a5c0375a776f7224/a.out ./dist/54c14a9e47ed4583a5c0375a776f7224/test.c -static -w -lm -std=c99 -O2 -DONLINE_JUDGE
+TRACE [2021-02-10 10:27:36] [core.cpp:412] compiler finished
+TRACE [2021-02-10 10:27:36] [core.cpp:416] compile succeeded.
+TRACE [2021-02-10 10:27:36] [core.cpp:459] Start Judging.
+TRACE [2021-02-10 10:27:36] [core.cpp:160] Start to redirect the IO.
+TRACE [2021-02-10 10:27:36] [core.cpp:169] redirect io is OK.
+TRACE [2021-02-10 02:27:36] [logger.h:100] log_close
+DEBUG [2021-02-10 10:27:36] [core.cpp:307] syscall: 59, out, count: 1
+DEBUG [2021-02-10 10:27:36] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-10 10:27:36] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-10 10:27:36] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-10 10:27:36] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-10 10:27:36] [core.cpp:307] syscall: 158, in, count: -1
+DEBUG [2021-02-10 10:27:36] [core.cpp:307] syscall: 158, out, count: -1
+DEBUG [2021-02-10 10:27:36] [core.cpp:307] syscall: 63, in, count: -1
+DEBUG [2021-02-10 10:27:36] [core.cpp:307] syscall: 63, out, count: -1
+DEBUG [2021-02-10 10:27:36] [core.cpp:307] syscall: 89, in, count: -1
+DEBUG [2021-02-10 10:27:36] [core.cpp:307] syscall: 89, out, count: -1
+DEBUG [2021-02-10 10:27:36] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-10 10:27:36] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-10 10:27:36] [core.cpp:307] syscall: 12, in, count: -1
+DEBUG [2021-02-10 10:27:36] [core.cpp:307] syscall: 12, out, count: -1
+DEBUG [2021-02-10 10:27:36] [core.cpp:307] syscall: 5, in, count: -1
+DEBUG [2021-02-10 10:27:36] [core.cpp:307] syscall: 5, out, count: -1
+DEBUG [2021-02-10 10:27:36] [core.cpp:307] syscall: 5, in, count: -1
+DEBUG [2021-02-10 10:27:36] [core.cpp:307] syscall: 5, out, count: -1
+DEBUG [2021-02-10 10:27:36] [core.cpp:307] syscall: 1, in, count: -1
+DEBUG [2021-02-10 10:27:36] [core.cpp:307] syscall: 1, out, count: -1
+DEBUG [2021-02-10 10:27:36] [core.cpp:307] syscall: 8, in, count: -1
+DEBUG [2021-02-10 10:27:36] [core.cpp:307] syscall: 8, out, count: -1
+DEBUG [2021-02-10 10:27:36] [core.cpp:307] syscall: 231, in, count: -1
+TRACE [2021-02-10 10:27:36] [core.cpp:501] OK, normal quit. All is good.
+TRACE [2021-02-10 10:27:36] [core.cpp:55] The final result is Accepted 0 444 
+TRACE [2021-02-10 10:27:36] [logger.h:100] log_close
