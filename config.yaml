@@ -1,0 +1,6 @@
+rabbitmq:
+  host: 120.78.156.16
+  port: 5672
+  route: /
+  username: wangx
+  password: 818923
